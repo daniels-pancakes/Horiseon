@@ -42,6 +42,10 @@ Changes have been annotated with comments.
 
 The Coding Boot Camp at UT Austin
 
+Collaborators: Julienne Knowles
+I am fortunate to be enrolled in this course alongside my best friend and partner. We will be frequent collaborators throughout this course, as in all things. Our work may bear some similarities. Rest assured we have made every effort to complete our work independently.
+
+
 ## License
 
 Please refer to the LICENSE in the repo.
