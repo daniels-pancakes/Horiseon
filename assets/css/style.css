@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Renamed 'hero' section to more aptly named 'splash-image' */
 .splash-image {
     height: 800px;
     width: 100%;
@@ -74,6 +75,7 @@ p {
     margin-left: 20px;
 }
 
+/* Renamed section to more aptly named 'side-bar' */
 .side-bar {
     margin-right: 20px;
     padding: 20px;
@@ -101,7 +103,7 @@ p {
     max-width: 150px;
 }
 
-
+/* Renamed section to more aptly named 'brand-factors' */
 .brand-factors {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,6 +113,7 @@ p {
     color: #ffffff;
 }
 
+/* Consolidated benefit-lead, benefit-brand, benefit-cost into one selector based on common class and tag */
 .brand-factors img {
     max-height: 200px;
 }
