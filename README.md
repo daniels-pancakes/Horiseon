@@ -30,8 +30,13 @@ THEN I find a concise, descriptive title
 
 ## Usage
 
-To view the webpage visit the page url.
+To view the webpage visit page url.
 To see the changes made please view the source code index.html and css style sheet.
+Changes have been annotated with comments.
+
+## Preview Screenshot of Completed Project
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/previewscreen.png)
+**Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. 
 
 ## Credits
 
