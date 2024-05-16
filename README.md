@@ -30,8 +30,8 @@ THEN I find a concise, descriptive title
 
 ## Usage
 
-To view the webpage visit page url.
-To see the changes made please view the source code index.html and css style sheet.
+To view the webpage please visit the following [link](https://daniels-pancakes.github.io/Horiseon/).
+To see the changes made please view the source code, index.html, and css style sheet.
 Changes have been annotated with comments.
 
 ## Preview Screenshot of Completed Project
